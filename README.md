@@ -24,7 +24,7 @@ Installation
 
     Clone the repository: git clone https://github.com/your-username/colorful-snake-game.git
     Navigate to the project directory: cd colorful-snake-game
-    Run the game: python snake_game.py
+    Run the game: python Human_Play.py
 How to Play
 
     Use arrow keys to control the snake's direction.
